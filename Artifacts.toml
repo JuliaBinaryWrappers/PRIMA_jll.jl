@@ -1,273 +1,309 @@
 [[PRIMA]]
 arch = "aarch64"
-git-tree-sha1 = "da3514bbd3fd947203c099ceb8960c1b1d9fd85d"
+git-tree-sha1 = "9de9b6f8c5f64e8c35ddce3632227879d7478cf8"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PRIMA.download]]
-    sha256 = "42165b37e24bd27e30fc82b5efaab2a84bf0a08a104bf7d45281673ea2c1a02a"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "0c581016b85be5faab4f6351bdd38ecbbcea74a489231f9b2bcc65e2707d2022"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "aarch64"
-git-tree-sha1 = "08e5909bbf45f66b4136740917e73c9b4facc783"
+git-tree-sha1 = "4c07f2ab31f1dae38024060a6adc9c0cc6b6e55b"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "98dbb4f79b0887a591043c959465b4d34af9f85304960209dde2bd5975f17891"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ddf569ea780c746e494adae3a2f8375ec2b3e2c81d33dae3897108c26cee4e47"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "aarch64"
-git-tree-sha1 = "daf636feec60994cee032735b90d27aeaea6e1ec"
+git-tree-sha1 = "8e1f0c3b585a23526e055d908384db2733a1ac35"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "e5893ec1d197541d2be89d271546e089a01484ff31ce55cdfa35d47c3ed3a5e2"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "752516b819037d547106687a610ce979e6d10b416f35266e23ecaf91cce6176a"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "aarch64"
-git-tree-sha1 = "cc3a759fee8385ca827eb1a33769835e84fc22ae"
+git-tree-sha1 = "7b01ccc516157523f1ff9f03d8ba525c66b4354e"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "1df503a0cefe2d408e60222c8190f58b6caa6942a7cb38f198f3f9230831a776"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "a4b777998050931e3f56c580895b3934b4125ad1a420016170f12c41faa0930e"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "aarch64"
-git-tree-sha1 = "b73df65dc638af13257a1a2a0bd3d12e270546dc"
+git-tree-sha1 = "a0023fc9e611984fb624cea3f33a679e88404130"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "6eca434278796b55eefc2fb0c36e34d85fe54991b0af2814656ab2f20868366b"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "c8a0c9249d0be11c673b7da59cbee80401379f7052899f0c61d02bd84a67f3f2"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "227bcb3d09b12085e0e469cbbff3e12aff9eea09"
+git-tree-sha1 = "28f2fc14caa010b907325f4d9a578a5ba09326b7"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "6715b5a764686780cfd2a7a920671b493f9c400c80639bf15ef2f7ca12bd24bb"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "699de4fbe976241d2c71033d25f63592c8db57aee8cc60ad2c8fa8048ef08b05"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "851264c8d9fabefa4390ebc9151ea31fdc2f7fe2"
+git-tree-sha1 = "6d91a6bba018f786e2f6bc36a702deb9ce877106"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "e1559c8a33ca093431eed631c7d2955ca9c708cf341b0fee0b8e1091cfb9d620"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "c735a0259079225dc724083fe376426f16cfb97249e610d61060ebc3365c7ecb"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e165b20cadce6fbda3ac55686e9e036b479676f5"
+git-tree-sha1 = "0848e7a4e0650cafe3958df215392371d5e32d69"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "3302ab54cae3faa1b24927f719494a2c9d9e3a2378cfd9ede8a64067acd1b330"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "e024c5bb9a8a744a9758c819221c18033fe23d96f624ba9a86010350492c8d55"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e7f7e489cc26c829d061ad008ddc2b4b8bd63c64"
+git-tree-sha1 = "ab59bf36b29b4438e041613f35dda8918d98fd2d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "a6e9f847b979be0a2ce646db8a7afaf77c1ade93217662d63386fe4b99a42053"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "282f313e1d8f85a44dfba1728fb4ae02909ff28bf0a27170691b78eed3f12f6f"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "74f773bcf2b060991282121b175a4019e7b029fa"
+git-tree-sha1 = "edc387f60b33473a7115d8300c32734ed96c8b8e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "4799f8497fb865a2c48111166841d48e743588ae9f04be4fa406a1b7824a1f5d"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "35fef970a3fcc2071582ea047b923786c3e23a517dd47f56d1e513385d607451"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0acba268b419c0f668ad4df4eddba0f3baa66eee"
+git-tree-sha1 = "37bf18a9654d8676295c12643dafa45fc6c2ee38"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "f36eef20777f41cd6677354f5871cfcc3614d9d263ffda5cdee235c2d6a0cb8a"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "60abcb586b4952e70fdc86210b3fc0a78338e6b042cde5bac81e6de593041bae"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e8edb13a7f28936cc0e1d861d1b5fd0592628a3b"
+git-tree-sha1 = "7d7be5b2d6a2ab3abc496d456907abd261ba10d3"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "8307fc879cde079652b1c3bfd66497bd31c1766743b966e6cef601010e492350"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "ac1f40a430203dc23e331d25ff6fee29e0103e75720774beca8a0fc4978d3ecf"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3bc01a1656d7041a88f3eda5128e5c1f6449be8b"
+git-tree-sha1 = "acef75665db0e28e8b5e862bcca87d588b2f87e3"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "6cb2b6823048df1c6e1a7d403e1177e9dda7f3f7e48489b34a01e7ab9e15428e"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "db6f35a869b01ceba1038ee1ba82212481704a7e8f4d0db7d9f42b2e0d903611"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "i686"
-git-tree-sha1 = "231b20d619e9b1b8c9ea4d0e3c638fa37a9456c8"
+git-tree-sha1 = "3487aaec41a8ca700c108855d7c6ec1957ab84ff"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "113c20275f64a3231f5c7a65312bc0f4c39f0b6a16c299f1133831922eda47c0"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "a4fb30486a4c1b45142b91e9713443c08bde96a65a3c695e06c13045cb0a1b02"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "i686"
-git-tree-sha1 = "114d7a37f5529ae0b8db5b9017f0672641369818"
+git-tree-sha1 = "d227d9958f8a2c2d2efda624a5f8f72a05730713"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "8c031200c5949a1e3c47d0cce1bad1d51d9b4606faf1903dfcacce4e038164a3"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "363aa1966233529369475f04ca361c075f5324675f3c3cedfc183591252ef96f"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "i686"
-git-tree-sha1 = "19e75789a782b51aed018ea85f4ba5bc0609257b"
+git-tree-sha1 = "89cc4228976c95303d1f83f55a33da770bc4b97d"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "d36bd39579e6e457d213080c09dd1fb1e5e789927ffefd7e4c3904dbe07a3153"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "0a666d78597eaf8bad3d88e27fe4b03bc43d63d4338d4a7c30b72f2e8f2f34ef"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.i686-linux-musl-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "i686"
-git-tree-sha1 = "b563310e5f156fa21de5cdbd4b3c49c615cbf10a"
+git-tree-sha1 = "a9eea9afa01ef64742c40d8d2f832e5036a83f8d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "49619aa7ffbb59e7b2d4242f0dd341a9c3f90515d9509d231918a282eb22277d"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "6503aa9963553a3d619e5be47d35bb6724ec2acb1a7d1dcb704eb92f65a53f05"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.i686-linux-musl-libgfortran5.tar.gz"
+[[PRIMA]]
+arch = "i686"
+git-tree-sha1 = "0e04bd4b0199056ff99ed06a73d8b157258f7958"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[PRIMA.download]]
+    sha256 = "d0bbb722b611be8e08e5157bbec2cc60b365bcb95da5e331f8dbd2e8ae51e932"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[PRIMA]]
+arch = "i686"
+git-tree-sha1 = "6951db1a4abd301cdacbe3837726de299529a87b"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[PRIMA.download]]
+    sha256 = "8dfcd321150023c2015037f8075cc7a305cd09365b0ef0536716d02c7adb289c"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "powerpc64le"
-git-tree-sha1 = "ab2f896081a1841eea0276a27caf5a5a3cb55f6f"
+git-tree-sha1 = "cf2f1e14f8aa936d949f6c1eb92762b92a959af1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "d3cd267bb37a006076240d02e0cadf234190d2c67a80e9c4c0d5e5c94fa81e14"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "17a2f3d1ed34175805f57fd736f5a838586ae3c8a56526d4e4f5d70f2526856d"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "powerpc64le"
-git-tree-sha1 = "fa1b4e529b8098d69b2a4e19d940eec401969115"
+git-tree-sha1 = "39b54487f09d471b8ba64c9460efdc29bada8b43"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "818737b273aa506c5df3af24e1be921119f8e829cfa5b4ebcfacf969e7f3e953"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "c844115e0b30aab8711079378e85be1972e6e8f7a1c3b3e8019a64d080e7e946"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "36a9d10a60c7b8c40ba1b3c8d8cfacac95739954"
+git-tree-sha1 = "e619505d96347edd32b68b59927428d0ae888878"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[PRIMA.download]]
-    sha256 = "499863162056c71ca73d7e77df1db1b766f1d2b5c58f3a77e3c3e39b444646be"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "47642622c2b828b7a8e65461dc33d2b3d578f9ec6fe743bc40ea0ed9ac939d9d"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "7049956b0f188d23278b34680f1670597ad01095"
+git-tree-sha1 = "f02acf98010be55ed9f49036136a60e095a5482a"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PRIMA.download]]
-    sha256 = "18d516c76de242cd86a979ac304500da0d58f0936c5ad10ba3c39e82925efb89"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "7873eba6ca8ac1f5ec6fd09baab3464886ddf4dce3b3dd01e3b81e008950888c"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "1b225b4163496bdf4471ddc408ef01aeaec3b20a"
+git-tree-sha1 = "21e8644d76073ab77fdc97f9acd80fcd1dab0717"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "1dfe2b0dd76a429b2bf33541e6046739e0fc86b668992a615fa5d43ea00a9212"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "fa186eb104063272ab233388ed23bfa9ca4c10623801385534fdb9727252894b"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "debbef4450253b1859f45c948baa035e3e527fbb"
+git-tree-sha1 = "5f9620b01e8f1256fa77450e09c801411466ee35"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "f8444ad14222a4eb2c1676f8ef525d81666978a9fa84ea0c5429a91093bd4320"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a27ec84eb29c1074a172d91b76f270dfefb0b1e7cee5da4eee1584e169ef45b1"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "13718c2ba493b81fdfea38cf4a0714fd06e67c9f"
+git-tree-sha1 = "b9f1d8f600d435448bbe323521b573e8ea898e29"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "a50e976a31df7da4b764d870f8edf61fef67b4934cccbaae127bebbe35a9255c"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "afe79c128f001fe511a69ae09bb1545ad10dd16afdff39bf24b6e696f89f90ed"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "fcc0710dc5be687d9e517cb67f15a707ad03695e"
+git-tree-sha1 = "710b98c0966819ea0ac8ae614d5425fd5b56114a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "8a1eecf4c5cc2240479275610f501a12c006182f34db09bc8abcb8569639573f"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "a8ea81f85277472cd8d834fb1c063b3c71da6b635f4db07c00b01a7eeabfde1a"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "8ea8b51e310362304e11cf23d01adf61af200fb7"
+git-tree-sha1 = "9b8f00cdf117613d29570793b4876b77410f0d41"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[PRIMA.download]]
-    sha256 = "df750b5cb157f6545bfdf91ed43fbde0fd0cb726d7093f45dcb256e9318f1509"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "d9536e99131956cd37be1ed4d510b17a3c3ae23f8c9645257ad2e956879b64cd"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "26e4f1d702b6c34c1aa512ffe505eb93eb873ddb"
+git-tree-sha1 = "8ca050c6fe068909d8bfebf46af1c37979f812b7"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[PRIMA.download]]
-    sha256 = "abebd831d8fa1957a6b9552c5290b09878362d297c803a47d505746abd268343"
-    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+0/PRIMA.v0.7.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "371fe5e30ab481b46b20680c3963a15011c1af0a85f119e3068edcab1c2bc59b"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[PRIMA]]
+arch = "x86_64"
+git-tree-sha1 = "5a5bf49899a4278032f34ec0d4c57c4aa313164b"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[PRIMA.download]]
+    sha256 = "1ee163a2110176e9454e9f5c7fba563afdc98ad6ab2136320722dbb7aafc4ef8"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[PRIMA]]
+arch = "x86_64"
+git-tree-sha1 = "f5199460922dc331f90178cbe743ba54b4d95ff1"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[PRIMA.download]]
+    sha256 = "87d3ee479770fb8deb586e08b3dcaf1952fda766dd51bedafedd7bebd79d8bd0"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMA_jll.jl/releases/download/PRIMA-v0.7.0+1/PRIMA.v0.7.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
